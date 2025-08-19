@@ -10,4 +10,6 @@ The steps are truncated from the origin for simplicity:
 - Host a website (a simple HTML file) that automatically download the ISO file.
 - Double click the zip file and enjoy.
 
+To get your own DropBox API key, create an account on DropBox then go here: https://www.dropbox.com/developers and create an app
+
 This demo is a recreation from this github repo: https://github.com/S3N4T0R-0X0/APT29-Adversary-Simulation by S3N4T0R
