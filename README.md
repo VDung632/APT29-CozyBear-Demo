@@ -1,5 +1,5 @@
 # APT29-CozyBear-Demo
-This is a demo for a uni project to show how Adversary can use external service to evade detection. The API in the demo has already expired.
+This is a demo for an university project to show how an adversary can use external service to evade detection. The API in the demo has already expired.
 
 The steps are truncated from the origin for simplicity:
 - Compile the payload with the DropBox API key.
